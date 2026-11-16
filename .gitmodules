@@ -1,0 +1,9 @@
+[submodule "参考/hivemind"]
+	path = 参考/hivemind
+	url = https://github.com/learning-at-home/hivemind.git
+[submodule "参考/vllm"]
+	path = 参考/vllm
+	url = https://github.com/vllm-project/vllm.git
+[submodule "参考/vllm-omni"]
+	path = 参考/vllm-omni
+	url = https://github.com/vllm-project/vllm-omni.git
