@@ -7,3 +7,6 @@
 [submodule "参考/vllm-omni"]
 	path = 参考/vllm-omni
 	url = https://github.com/vllm-project/vllm-omni.git
+[submodule "参考/ray"]
+	path = 参考/ray
+	url = https://github.com/ray-project/ray.git
